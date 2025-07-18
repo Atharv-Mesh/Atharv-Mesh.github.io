@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'CEPT University',
           imageUrl:
-            'https://www.gamedevmarket.net/asset/cartoon-city-building-low-poly-3d-model-8788',
+            'https://cdn.gamedevmarket.net/wp-content/uploads/20191203194555/f241ddcc50b4bd1dc1ab8d328a78ee69e590807b.jpg',
           link: 'https://example.com',
         },
         {
